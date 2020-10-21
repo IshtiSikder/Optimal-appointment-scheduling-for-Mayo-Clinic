@@ -1,5 +1,5 @@
-# Override-policy
-Optimal Override Policy for Chemotherapy Outpatient Scheduling Template via Mixed-Integer Linear Programming
+# Optimal appointment scheduling for Mayo Clinic
+An optimal appointment schedule developed for Mayo clinic's chemotherapy outpatient unit
 
 1. Kindly download all files uploaded in the repository to a local folder
 
